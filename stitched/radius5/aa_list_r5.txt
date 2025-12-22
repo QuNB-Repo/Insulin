@@ -1,0 +1,102 @@
+sphere01
+{'GLY1': 8, 'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'TYR19': 21, 'ALA30': 12}
+sphere02
+{'GLY1': 8, 'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'TYR19': 21, 'LEU11': 19}
+sphere03
+{'GLY1': 8, 'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'CYS7': 10, 'THR8': 14, 'LEU11': 19, 'PRO28': 14}
+sphere04
+{'GLY1': 8, 'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'CYS7': 10, 'THR8': 14, 'SER9': 11}
+sphere05
+{'GLY1': 8, 'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'CYS7': 10, 'SER9': 11, 'GLN15': 17}
+sphere06
+{'ILE2': 19, 'VAL3': 16, 'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'CYS7': 10, 'THR8': 14, 'SER9': 11, 'ILE10': 19, 'CYS11': 10, 'HIS5': 17, 'LEU6': 19, 'LEU11': 19}
+sphere07
+{'VAL3': 16, 'CYS6': 10, 'CYS7': 10, 'THR8': 14, 'SER9': 11, 'HIS5': 17, 'LEU6': 19, 'CYS7B': 10, 'LEU11': 19}
+sphere08
+{'VAL3': 16, 'GLU4': 15, 'CYS7': 10, 'THR8': 14, 'SER9': 11, 'HIS5': 17}
+sphere09
+{'GLU4': 15, 'GLN5': 17, 'CYS6': 10, 'CYS7': 10, 'THR8': 14, 'SER9': 11, 'ILE10': 19, 'HIS5': 17}
+sphere10
+{'GLN5': 17, 'CYS6': 10, 'SER9': 11, 'ILE10': 19, 'CYS11': 10, 'GLN4': 17, 'HIS5': 17}
+sphere11
+{'GLN5': 17, 'CYS6': 10, 'SER9': 11, 'ILE10': 19, 'CYS11': 10, 'SER12': 11, 'GLN15': 17, 'VAL2': 16, 'ASN3': 14, 'GLN4': 17, 'LEU6': 19}
+sphere12
+{'CYS11': 10, 'SER12': 11, 'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'VAL2': 16, 'ASN3': 14}
+sphere13
+{'SER12': 11, 'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'VAL2': 16, 'VAL18': 16}
+sphere14
+{'SER12': 11, 'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'ASN18': 14}
+sphere15
+{'SER12': 11, 'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21}
+sphere16
+{'ILE2': 19, 'SER12': 11, 'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21, 'LEU15': 19, 'VAL18': 16}
+sphere17
+{'LEU13': 19, 'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21, 'CYS20': 10, 'VAL18': 16, 'CYS19': 10, 'ARG22': 24}
+sphere18
+{'TYR14': 21, 'GLN15': 17, 'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21, 'CYS20': 10}
+sphere19
+{'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21, 'CYS20': 10, 'LEU15': 19, 'PHE24': 20, 'PHE25': 20}
+sphere20
+{'LEU16': 19, 'GLU17': 15, 'ASN18': 14, 'TYR19': 21, 'CYS20': 10, 'ASN21': 16, 'CYS19': 10, 'ARG22': 24, 'GLY23': 7, 'PHE24': 20, 'PHE25': 20}
+sphere21
+{'CYS20': 10, 'ASN21': 16, 'ARG22': 24, 'GLY23': 7, 'PHE24': 20, 'PHE25': 20}
+sphere22
+{'PHE1': 21, 'VAL2': 16, 'ASN3': 14, 'GLN4': 17}
+sphere23
+{'CYS11': 10, 'LEU16': 19, 'PHE1': 21, 'VAL2': 16, 'ASN3': 14, 'GLN4': 17, 'LEU6': 19, 'ALA14': 10}
+sphere24
+{'ILE10': 19, 'CYS11': 10, 'SER12': 11, 'PHE1': 21, 'VAL2': 16, 'ASN3': 14, 'GLN4': 17}
+sphere25
+{'ILE10': 19, 'CYS11': 10, 'VAL2': 16, 'ASN3': 14, 'GLN4': 17, 'HIS5': 17, 'LEU6': 19}
+sphere26
+{'CYS6': 10, 'CYS7': 10, 'SER9': 11, 'ILE10': 19, 'CYS11': 10, 'GLN4': 17, 'HIS5': 17, 'LEU6': 19}
+sphere27
+{'CYS6': 10, 'CYS7': 10, 'CYS11': 10, 'GLN4': 17, 'HIS5': 17, 'LEU6': 19, 'CYS7B': 10, 'HIS10': 17, 'LEU11': 19}
+sphere28
+{'CYS7': 10, 'LEU6': 19, 'CYS7B': 10, 'GLY8': 7, 'HIS10': 17, 'LEU11': 19}
+sphere29
+{'CYS7': 10, 'GLY8': 7, 'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'TYR26': 21}
+sphere30
+{'CYS7': 10, 'GLY8': 7, 'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15}
+sphere31
+{'LEU6': 19, 'CYS7': 10, 'GLY8': 7, 'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10}
+sphere32
+{'LEU6': 19, 'CYS7': 10, 'GLY8': 7, 'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19}
+sphere33
+{'GLY8': 7, 'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'PHE24': 20}
+sphere34
+{'SER9': 11, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19}
+sphere35
+{'LEU16': 19, 'PHE1': 21, 'VAL2': 16, 'LEU6': 19, 'HIS10': 17, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16}
+sphere36
+{'LEU16': 19, 'LEU11': 19, 'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16, 'CYS19': 10, 'PHE24': 20}
+sphere37
+{'VAL12': 16, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16, 'CYS19': 10, 'GLY20': 7, 'PHE24': 20}
+sphere38
+{'PHE1': 21, 'GLU13': 15, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16, 'CYS19': 10, 'GLY20': 7}
+sphere39
+{'LEU13': 19, 'PHE1': 21, 'ALA14': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16, 'CYS19': 10, 'GLY20': 7, 'ARG22': 24}
+sphere40
+{'CYS20': 10, 'LEU15': 19, 'TYR16': 21, 'LEU17': 19, 'VAL18': 16, 'CYS19': 10, 'GLY20': 7, 'ARG22': 24, 'GLY23': 7, 'PHE24': 20}
+sphere41
+{'TYR16': 21, 'VAL18': 16, 'CYS19': 10, 'GLY20': 7, 'GLU21': 15, 'ARG22': 24, 'GLY23': 7}
+sphere42
+{'CYS19': 10, 'GLY20': 7, 'GLU21': 15, 'ARG22': 24, 'GLY23': 7}
+sphere43
+{'CYS20': 10, 'ASN21': 16, 'CYS19': 10, 'GLY20': 7, 'GLU21': 15, 'ARG22': 24, 'GLY23': 7}
+sphere44
+{'CYS20': 10, 'ASN21': 16, 'CYS19': 10, 'GLY20': 7, 'GLU21': 15, 'ARG22': 24, 'GLY23': 7, 'PHE24': 20}
+sphere45
+{'TYR19': 21, 'CYS20': 10, 'ASN21': 16, 'CYS19': 10, 'GLY23': 7, 'PHE24': 20, 'PHE25': 20}
+sphere46
+{'TYR19': 21, 'ASN21': 16, 'PHE24': 20, 'PHE25': 20, 'TYR26': 21, 'THR27': 14}
+sphere47
+{'ILE2': 19, 'LEU15': 19, 'PHE24': 20, 'PHE25': 20, 'TYR26': 21, 'THR27': 14, 'PRO28': 14}
+sphere48
+{'ILE2': 19, 'PHE25': 20, 'TYR26': 21, 'THR27': 14, 'PRO28': 14, 'LYS29': 22, 'ALA30': 12}
+sphere49
+{'ILE2': 19, 'VAL3': 16, 'TYR26': 21, 'THR27': 14, 'PRO28': 14, 'LYS29': 22, 'ALA30': 12}
+sphere50
+{'THR27': 14, 'PRO28': 14, 'LYS29': 22, 'ALA30': 12}
+sphere51
+{'GLY1': 8, 'THR27': 14, 'LYS29': 22, 'ALA30': 12}
