@@ -2,6 +2,25 @@
 ---
 
 # Divide and Correlate: Mapping Electronic Correlations in Proteins via Local Cut-Wise Reconstruction  
+https://doi.org/10.26434/chemrxiv-2025-2xknx
+
+# Authors and Contact
+
+- Mostafa Javaheri Moghadam
+PhD Candidate, Department of Chemistry
+University of New Brunswick, Fredericton, Canada
+ORCID: https://orcid.org/0009-0002-1415-9867
+
+- Rebecca Mulder
+Department of Chemistry
+University of New Brunswick, Fredericton, Canada
+
+- Stijn De Baerdemacker (Corresponding Author)
+Associate Professor, Department of Chemistry
+University of New Brunswick, Fredericton, Canada
+Email: stijn.debaerdemacker@unb.ca
+ORCID: https://orcid.org/0000-0001-7933-3227
+
 Dataset and Workflow Files for Insulin AMI/FMI Analysis
 
 This repository contains all fragment-level and full-system data used in the divide-and-correlate reconstruction of Atomic Mutual Information (AMI) and Fragment Mutual Information (FMI) for the insulin protein. The dataset includes spherical fragment structures, quantum-chemical inputs and outputs, mutual information (MI) matrices, and stitched reconstructions used in the manuscript.
@@ -10,12 +29,12 @@ Specifically, the repository provides:
 
 Spherical fragment structures with capping (XYZ files) and without capping (PDB files)
 
-- Lists of amino acids included in each fragment
+- Lists of amino acids included in each spherical fragment together with the number of atoms per residue, stored as {'RESNAMEresID': number_of_atoms}
 - RMSD values of each spherical fragment after position-restrained energy minimization relative to the full protein
-- ORCA DFT input and output files
 - Fragment AMI matrices
 - Stitched AMI/FMI matrices for each radius
 - Full-protein structures and reference AMI/FMI matrices
+- ORCA DFT input and output files are available at https://doi.org/10.25545/OZX7DP 
 
 ## Computational Methods
 All spherical fragments were capped with NH₂/COOH groups and subjected to position-restrained energy minimization using the OPLS-AA force field and the steepest-descent algorithm implemented in GROMACS to remove steric clashes at the cut boundaries while preserving the native protein geometry. DFT single-point calculations were performed using ORCA, and reduced density matrices (RDMs) were subsequently computed using in-house software.
@@ -29,8 +48,6 @@ All spherical fragments were capped with NH₂/COOH groups and subjected to posi
 │  ├─ full_protein.xyz
 │  ├─ full_protein_AMI.csv
 │  ├─ full_protein_FMI.csv
-│  ├─ full_protein_orca.inp
-│  └─ full_protein_orca.out
 └─ stitched
    ├─ radius4
    │  ├─ aa_list_r4.txt
@@ -41,8 +58,6 @@ All spherical fragments were capped with NH₂/COOH groups and subjected to posi
    │  │  ├─ sphere01_AMI_cap.csv
    │  │  ├─ sphere01_AMI_nocap.csv
    │  │  ├─ sphere01_cap.xyz
-   │  │  ├─ sphere01_dft.inp
-   │  │  ├─ sphere01_dft.out
    │  │  └─ sphere01_nocap.pdb
    │  ├─ .
    │  ├─ .
@@ -57,8 +72,6 @@ All spherical fragments were capped with NH₂/COOH groups and subjected to posi
    │  │  ├─ sphere01_AMI_cap.csv
    │  │  ├─ sphere01_AMI_nocap.csv
    │  │  ├─ sphere01_cap.xyz
-   │  │  ├─ sphere01_dft.inp
-   │  │  ├─ sphere01_dft.out
    │  │  └─ sphere01_nocap.pdb
    │  ├─ .
    │  ├─ .
@@ -73,8 +86,6 @@ All spherical fragments were capped with NH₂/COOH groups and subjected to posi
       │  ├─ sphere01_AMI_cap.csv
       │  ├─ sphere01_AMI_nocap.csv
       │  ├─ sphere01_cap.xyz
-      │  ├─ sphere01_dft.inp
-      │  ├─ sphere01_dft.out
       │  └─ sphere01_nocap.pdb
       ├─ .
       ├─ .
@@ -97,8 +108,7 @@ All spherical fragments were capped with NH₂/COOH groups and subjected to posi
 ---
 
 ## Citation
-1. M. J. Moghadam, R. Mulder and S. De Baerdemacker, chemrxiv., 2025
-2. M. J. Moghadam, K. Boguslawski, R. Doucet, Ö. Legeza, P. Tecmer and S. De Baerdemacker, chemrxiv., 2024.
-3. M. J. Moghadam, K. Boguslawski, P. Tecmer, S. De Baerdemacker, chemrxiv., 2025
+1. M. J. Moghadam, K. Boguslawski, R. Doucet, Ö. Legeza, P. Tecmer and S. De Baerdemacker, chemrxiv., 2024.
+2. M. J. Moghadam, K. Boguslawski, P. Tecmer, S. De Baerdemacker, chemrxiv., 2025
 3. M. J. Abraham, T. Murtola, R. Schulz, S. Páll, J. C. Smith, B. Hess and E. Lindahl, Softw. X, 2015, 1, 19–25.
 4. F. Neese, WIREs Comput. Mol. Sci., 2012, 2, 73–78.
